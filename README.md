@@ -22,7 +22,7 @@ An app to demonstrate push notifications using Service Workers.
    {"title" : "Dnyanesh says..", "body" : "Hey checkout this and that"}
 ```   
   
-* Enjoy the rest.
+* Enjoy the rest. :+1:
 
 * Bonus : You can modify the service worker to read link you want to redirect to when user clicks on notification.
 
