@@ -1,0 +1,20 @@
+# push-crew
+An app to demonstrate push notifications using Service Workers
+
+
+Run this app on your local http server
+
+Click on  "Enable Push Notofication" button
+
+Click on allow to subscribe to notifications. Copy the key generated after clicking allow.
+
+Open https://web-push-codelab.glitch.me//
+
+Paste key into "Subscription to Send To" textarea
+
+add your message in below format in "Text to Send" testarea.
+  {"title" : "Dnyanesh says..", "body" : "Hey checkout this and that"}
+  
+Enjoy the rest.
+
+Bonus : You can modify the service worker to read link you want to redirect to when user clicks on notification.
