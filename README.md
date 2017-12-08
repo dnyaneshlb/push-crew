@@ -31,7 +31,7 @@ An app to demonstrate push notifications using Service Workers.
 
 *Based on initial work @* [Google Codelabs](https://codelabs.developers.google.com/codelabs/push-notifications/)
 
-*Me @dnyaneshlb with  :heart:  for javascript*
+*Me [@dnyaneshlb](https://github.com/dnyaneshlb) with  :heart:  for javascript*
 
 
 
