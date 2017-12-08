@@ -18,7 +18,9 @@ An app to demonstrate push notifications using Service Workers.
 * Paste key into "Subscription to Send To" textarea
 
 * Add your message in below format in "Text to Send" testarea.
+```
    {"title" : "Dnyanesh says..", "body" : "Hey checkout this and that"}
+```   
   
 * Enjoy the rest.
 
