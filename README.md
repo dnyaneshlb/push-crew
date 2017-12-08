@@ -8,7 +8,7 @@ An app to demonstrate push notifications using Service Workers.
 
 * Click on allow to subscribe to notifications. Copy the key generated after clicking allow.
 
-* Open https://web-push-codelab.glitch.me//
+* Open [Google Push Companion](https://web-push-codelab.glitch.me//)
 
 * Paste key into "Subscription to Send To" textarea
 
