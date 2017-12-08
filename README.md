@@ -9,7 +9,7 @@ An app to demonstrate push notifications using Service Workers.
 ## How to run this app?
 * Run this app on your local http server. Simply you can download "**Web Server**" app chrome extensions store/ brackets extension/ node js http server or any web server of your choice.
 
-* Click on  "Enable Push Notofication" button.
+* Click on  "Enable Push Notification" button.
 
 * Click on allow to subscribe to notifications. Copy the key generated after clicking allow.
 
