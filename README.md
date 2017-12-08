@@ -22,6 +22,8 @@ An app to demonstrate push notifications using Service Workers.
 
 ## Authors
 
-*Based on initial work @* https://codelabs.developers.google.com/codelabs/push-notifications/
+*Based on initial work @* [Google Codelabs] (https://codelabs.developers.google.com/codelabs/push-notifications/)
+
+
 
 
