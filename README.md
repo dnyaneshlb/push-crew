@@ -1,6 +1,10 @@
 # push-crew
 An app to demonstrate push notifications using Service Workers.
 
+* [Authors](https://github.com/dnyaneshlb/push-crew/blob/master/README.md#authors)
+* [How to Run this app?](https://github.com/dnyaneshlb/push-crew/blob/master/README.md#howtorunthisapp?)
+
+
 ## How to run this app?
 * Run this app on your local http server. Simply you can download "**Web Server**" app chrome extensions store/ brackets extension/ node js http server or any web server of your choice.
 
