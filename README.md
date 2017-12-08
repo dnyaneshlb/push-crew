@@ -1,6 +1,7 @@
 # push-crew
 An app to demonstrate push notifications using Service Workers.
 
+# Quick Links
 * [Authors](https://github.com/dnyaneshlb/push-crew/blob/master/README.md#authors)
 * [How to Run this app?](https://github.com/dnyaneshlb/push-crew/blob/master/README.md#how-to-run-this-app)
 
